@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1",
+    "name": "Pizza1",
+    "description": "6 pieces of chese with sauce.",
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 35,
+    "rating": 4.0,
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+    "size": [
+      {
+        "id": "1",
+        "name": "Small",
+        "description": "1 pieces of chese with sauce.",
+        "price": 6.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "Medium",
+        "description": "1 Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+        "price": 8.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
+      },
+      {
+        "id": "3",
+        "name": "Large",
+        "description": "1 Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+        "price": 8.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Pizza2",
+    "description": "4 pieces of chese with sauce.",
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 35,
+    "rating": 4.0,
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+    "size": [
+      {
+        "id": "1",
+        "name": "small",
+        "description": "2 pieces of chese with sauce.",
+        "price": 6.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "medium",
+        "description": "2 Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+        "price": 8.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
+      },
+      {
+        "id": "3",
+        "name": "Large",
+        "description": "2 Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+        "price": 8.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Pizza3",
+    "description": "4 pieces of chese with sauce.",
+    "minDeliveryTime": 25,
+    "maxDeliveryTime": 35,
+    "rating": 4.0,
+    "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant1.jpeg",
+    "size": [
+      {
+        "id": "1",
+        "name": "small",
+        "description": "3 pieces of chese with sauce.",
+        "price": 6.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant2.jpeg"
+      },
+      {
+        "id": "2",
+        "name": "medium",
+        "description": "3 Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+        "price": 8.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
+      },
+      {
+        "id": "3",
+        "name": "Large",
+        "description": "3 Double meat, gouda cheese, cheddar cheese, cooked ham, bacon, egg, salad and rustic potatoes.",
+        "price": 8.9,
+        "image": "https://notjustdev-dummy.s3.us-east-2.amazonaws.com/uber-eats/restaurant3.jpeg"
+      }
+    ]
+  }
+]

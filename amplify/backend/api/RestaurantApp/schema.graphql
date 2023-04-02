@@ -1,0 +1,19 @@
+type Product @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  description: String
+  image: String
+  minDeliveryTime: Int
+  maxDeliveryTime: Int
+  Sizes: [Size] @hasMany(indexName: "byProduct", fields: ["id"])
+  rating: String
+}
+
+type Size @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  description: String
+  price: String
+  image: String
+  productID: ID! @index(name: "byProduct")
+}
